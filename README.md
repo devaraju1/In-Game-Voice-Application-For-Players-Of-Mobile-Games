@@ -1,0 +1,2 @@
+# In-Game-Voice-Application-For-Players-Of-Mobile-Games
+Multi player online games on both mobile and non mobile devices (Desktops that are meant for running high end video games) ourselves with the non mobile devices being far superior in performance, we realized that, while not all comforts of desktop/laptop gaming can be incorporated into the mobile phone gaming experience, one incomparable feature would be voice communication between the players of these games.
